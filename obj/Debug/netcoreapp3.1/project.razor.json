@@ -14397,6 +14397,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/jharck/Development/CSharp/asp-net-core/Views/Escuela/Index.cshtml",
+      "TargetPath": "Views\\Escuela\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/jharck/Development/CSharp/asp-net-core/Views/Shared/_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -14409,6 +14414,11 @@
     {
       "FilePath": "/Users/jharck/Development/CSharp/asp-net-core/Views/Shared/_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/jharck/Development/CSharp/asp-net-core/Views/Shared/Simple.cshtml",
+      "TargetPath": "Views\\Shared\\Simple.cshtml",
       "FileKind": "mvc"
     },
     {
